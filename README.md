@@ -14,7 +14,7 @@ SpartanHost（中文名：斯巴达），成立于2013年，是一家国外主�
 ## SpartanHost 优惠码
 
 - 优惠码：`KVM20`（斯巴达祖传8折优惠码）
-- 适用页面：[SpartanHost 优惠页面](https://billing.spartanhost.net/aff.php?aff=2497
+- 适用页面：[SpartanHost 优惠页面](https://billing.spartanhost.net/aff.php?aff=2497)
 
 ## SpartanHost 价格
 
